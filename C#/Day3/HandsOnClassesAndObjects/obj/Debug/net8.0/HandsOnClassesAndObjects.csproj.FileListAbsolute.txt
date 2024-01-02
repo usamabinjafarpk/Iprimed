@@ -1,0 +1,14 @@
+C:\Usama Bin Jafar\C#\Day3\HandsOnClassesAndObjects\bin\Debug\net8.0\HandsOnClassesAndObjects.exe
+C:\Usama Bin Jafar\C#\Day3\HandsOnClassesAndObjects\bin\Debug\net8.0\HandsOnClassesAndObjects.deps.json
+C:\Usama Bin Jafar\C#\Day3\HandsOnClassesAndObjects\bin\Debug\net8.0\HandsOnClassesAndObjects.runtimeconfig.json
+C:\Usama Bin Jafar\C#\Day3\HandsOnClassesAndObjects\bin\Debug\net8.0\HandsOnClassesAndObjects.dll
+C:\Usama Bin Jafar\C#\Day3\HandsOnClassesAndObjects\bin\Debug\net8.0\HandsOnClassesAndObjects.pdb
+C:\Usama Bin Jafar\C#\Day3\HandsOnClassesAndObjects\obj\Debug\net8.0\HandsOnClassesAndObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Usama Bin Jafar\C#\Day3\HandsOnClassesAndObjects\obj\Debug\net8.0\HandsOnClassesAndObjects.AssemblyInfoInputs.cache
+C:\Usama Bin Jafar\C#\Day3\HandsOnClassesAndObjects\obj\Debug\net8.0\HandsOnClassesAndObjects.AssemblyInfo.cs
+C:\Usama Bin Jafar\C#\Day3\HandsOnClassesAndObjects\obj\Debug\net8.0\HandsOnClassesAndObjects.csproj.CoreCompileInputs.cache
+C:\Usama Bin Jafar\C#\Day3\HandsOnClassesAndObjects\obj\Debug\net8.0\HandsOnClassesAndObjects.dll
+C:\Usama Bin Jafar\C#\Day3\HandsOnClassesAndObjects\obj\Debug\net8.0\refint\HandsOnClassesAndObjects.dll
+C:\Usama Bin Jafar\C#\Day3\HandsOnClassesAndObjects\obj\Debug\net8.0\HandsOnClassesAndObjects.pdb
+C:\Usama Bin Jafar\C#\Day3\HandsOnClassesAndObjects\obj\Debug\net8.0\HandsOnClassesAndObjects.genruntimeconfig.cache
+C:\Usama Bin Jafar\C#\Day3\HandsOnClassesAndObjects\obj\Debug\net8.0\ref\HandsOnClassesAndObjects.dll

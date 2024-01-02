@@ -1,0 +1,14 @@
+C:\Usama Bin Jafar\C#\Day5\HandsOnClassTypes\bin\Debug\net8.0\HandsOnClassTypes.exe
+C:\Usama Bin Jafar\C#\Day5\HandsOnClassTypes\bin\Debug\net8.0\HandsOnClassTypes.deps.json
+C:\Usama Bin Jafar\C#\Day5\HandsOnClassTypes\bin\Debug\net8.0\HandsOnClassTypes.runtimeconfig.json
+C:\Usama Bin Jafar\C#\Day5\HandsOnClassTypes\bin\Debug\net8.0\HandsOnClassTypes.dll
+C:\Usama Bin Jafar\C#\Day5\HandsOnClassTypes\bin\Debug\net8.0\HandsOnClassTypes.pdb
+C:\Usama Bin Jafar\C#\Day5\HandsOnClassTypes\obj\Debug\net8.0\HandsOnClassTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Usama Bin Jafar\C#\Day5\HandsOnClassTypes\obj\Debug\net8.0\HandsOnClassTypes.AssemblyInfoInputs.cache
+C:\Usama Bin Jafar\C#\Day5\HandsOnClassTypes\obj\Debug\net8.0\HandsOnClassTypes.AssemblyInfo.cs
+C:\Usama Bin Jafar\C#\Day5\HandsOnClassTypes\obj\Debug\net8.0\HandsOnClassTypes.csproj.CoreCompileInputs.cache
+C:\Usama Bin Jafar\C#\Day5\HandsOnClassTypes\obj\Debug\net8.0\HandsOnClassTypes.dll
+C:\Usama Bin Jafar\C#\Day5\HandsOnClassTypes\obj\Debug\net8.0\refint\HandsOnClassTypes.dll
+C:\Usama Bin Jafar\C#\Day5\HandsOnClassTypes\obj\Debug\net8.0\HandsOnClassTypes.pdb
+C:\Usama Bin Jafar\C#\Day5\HandsOnClassTypes\obj\Debug\net8.0\HandsOnClassTypes.genruntimeconfig.cache
+C:\Usama Bin Jafar\C#\Day5\HandsOnClassTypes\obj\Debug\net8.0\ref\HandsOnClassTypes.dll

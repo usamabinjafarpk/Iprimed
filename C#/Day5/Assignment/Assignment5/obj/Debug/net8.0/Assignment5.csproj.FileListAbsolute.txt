@@ -1,0 +1,14 @@
+C:\Usama Bin Jafar\C#\Day5\Assignment\Assignment5\obj\Debug\net8.0\Assignment5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Usama Bin Jafar\C#\Day5\Assignment\Assignment5\obj\Debug\net8.0\Assignment5.AssemblyInfoInputs.cache
+C:\Usama Bin Jafar\C#\Day5\Assignment\Assignment5\obj\Debug\net8.0\Assignment5.AssemblyInfo.cs
+C:\Usama Bin Jafar\C#\Day5\Assignment\Assignment5\obj\Debug\net8.0\Assignment5.csproj.CoreCompileInputs.cache
+C:\Usama Bin Jafar\C#\Day5\Assignment\Assignment5\bin\Debug\net8.0\Assignment5.exe
+C:\Usama Bin Jafar\C#\Day5\Assignment\Assignment5\bin\Debug\net8.0\Assignment5.deps.json
+C:\Usama Bin Jafar\C#\Day5\Assignment\Assignment5\bin\Debug\net8.0\Assignment5.runtimeconfig.json
+C:\Usama Bin Jafar\C#\Day5\Assignment\Assignment5\bin\Debug\net8.0\Assignment5.dll
+C:\Usama Bin Jafar\C#\Day5\Assignment\Assignment5\bin\Debug\net8.0\Assignment5.pdb
+C:\Usama Bin Jafar\C#\Day5\Assignment\Assignment5\obj\Debug\net8.0\Assignment5.dll
+C:\Usama Bin Jafar\C#\Day5\Assignment\Assignment5\obj\Debug\net8.0\refint\Assignment5.dll
+C:\Usama Bin Jafar\C#\Day5\Assignment\Assignment5\obj\Debug\net8.0\Assignment5.pdb
+C:\Usama Bin Jafar\C#\Day5\Assignment\Assignment5\obj\Debug\net8.0\Assignment5.genruntimeconfig.cache
+C:\Usama Bin Jafar\C#\Day5\Assignment\Assignment5\obj\Debug\net8.0\ref\Assignment5.dll

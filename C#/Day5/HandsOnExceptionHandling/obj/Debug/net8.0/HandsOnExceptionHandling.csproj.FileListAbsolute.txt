@@ -1,0 +1,14 @@
+C:\Usama Bin Jafar\C#\Day5\HandsOnExceptionHandling\bin\Debug\net8.0\HandsOnExceptionHandling.exe
+C:\Usama Bin Jafar\C#\Day5\HandsOnExceptionHandling\bin\Debug\net8.0\HandsOnExceptionHandling.deps.json
+C:\Usama Bin Jafar\C#\Day5\HandsOnExceptionHandling\bin\Debug\net8.0\HandsOnExceptionHandling.runtimeconfig.json
+C:\Usama Bin Jafar\C#\Day5\HandsOnExceptionHandling\bin\Debug\net8.0\HandsOnExceptionHandling.dll
+C:\Usama Bin Jafar\C#\Day5\HandsOnExceptionHandling\bin\Debug\net8.0\HandsOnExceptionHandling.pdb
+C:\Usama Bin Jafar\C#\Day5\HandsOnExceptionHandling\obj\Debug\net8.0\HandsOnExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Usama Bin Jafar\C#\Day5\HandsOnExceptionHandling\obj\Debug\net8.0\HandsOnExceptionHandling.AssemblyInfoInputs.cache
+C:\Usama Bin Jafar\C#\Day5\HandsOnExceptionHandling\obj\Debug\net8.0\HandsOnExceptionHandling.AssemblyInfo.cs
+C:\Usama Bin Jafar\C#\Day5\HandsOnExceptionHandling\obj\Debug\net8.0\HandsOnExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Usama Bin Jafar\C#\Day5\HandsOnExceptionHandling\obj\Debug\net8.0\HandsOnExceptionHandling.dll
+C:\Usama Bin Jafar\C#\Day5\HandsOnExceptionHandling\obj\Debug\net8.0\refint\HandsOnExceptionHandling.dll
+C:\Usama Bin Jafar\C#\Day5\HandsOnExceptionHandling\obj\Debug\net8.0\HandsOnExceptionHandling.pdb
+C:\Usama Bin Jafar\C#\Day5\HandsOnExceptionHandling\obj\Debug\net8.0\HandsOnExceptionHandling.genruntimeconfig.cache
+C:\Usama Bin Jafar\C#\Day5\HandsOnExceptionHandling\obj\Debug\net8.0\ref\HandsOnExceptionHandling.dll

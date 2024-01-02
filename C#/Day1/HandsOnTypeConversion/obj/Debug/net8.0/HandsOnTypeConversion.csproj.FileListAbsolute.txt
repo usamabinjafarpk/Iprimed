@@ -1,0 +1,14 @@
+C:\Usama Bin Jafar\C#\Day1\HandsOnTypeConversion\bin\Debug\net8.0\HandsOnTypeConversion.exe
+C:\Usama Bin Jafar\C#\Day1\HandsOnTypeConversion\bin\Debug\net8.0\HandsOnTypeConversion.deps.json
+C:\Usama Bin Jafar\C#\Day1\HandsOnTypeConversion\bin\Debug\net8.0\HandsOnTypeConversion.runtimeconfig.json
+C:\Usama Bin Jafar\C#\Day1\HandsOnTypeConversion\bin\Debug\net8.0\HandsOnTypeConversion.dll
+C:\Usama Bin Jafar\C#\Day1\HandsOnTypeConversion\bin\Debug\net8.0\HandsOnTypeConversion.pdb
+C:\Usama Bin Jafar\C#\Day1\HandsOnTypeConversion\obj\Debug\net8.0\HandsOnTypeConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Usama Bin Jafar\C#\Day1\HandsOnTypeConversion\obj\Debug\net8.0\HandsOnTypeConversion.AssemblyInfoInputs.cache
+C:\Usama Bin Jafar\C#\Day1\HandsOnTypeConversion\obj\Debug\net8.0\HandsOnTypeConversion.AssemblyInfo.cs
+C:\Usama Bin Jafar\C#\Day1\HandsOnTypeConversion\obj\Debug\net8.0\HandsOnTypeConversion.csproj.CoreCompileInputs.cache
+C:\Usama Bin Jafar\C#\Day1\HandsOnTypeConversion\obj\Debug\net8.0\HandsOnTypeConversion.dll
+C:\Usama Bin Jafar\C#\Day1\HandsOnTypeConversion\obj\Debug\net8.0\refint\HandsOnTypeConversion.dll
+C:\Usama Bin Jafar\C#\Day1\HandsOnTypeConversion\obj\Debug\net8.0\HandsOnTypeConversion.pdb
+C:\Usama Bin Jafar\C#\Day1\HandsOnTypeConversion\obj\Debug\net8.0\HandsOnTypeConversion.genruntimeconfig.cache
+C:\Usama Bin Jafar\C#\Day1\HandsOnTypeConversion\obj\Debug\net8.0\ref\HandsOnTypeConversion.dll

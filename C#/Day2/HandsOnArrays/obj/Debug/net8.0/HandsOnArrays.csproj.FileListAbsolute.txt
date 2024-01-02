@@ -1,0 +1,14 @@
+C:\Usama Bin Jafar\C#\Day2\HandsOnArrays\bin\Debug\net8.0\HandsOnArrays.exe
+C:\Usama Bin Jafar\C#\Day2\HandsOnArrays\bin\Debug\net8.0\HandsOnArrays.deps.json
+C:\Usama Bin Jafar\C#\Day2\HandsOnArrays\bin\Debug\net8.0\HandsOnArrays.runtimeconfig.json
+C:\Usama Bin Jafar\C#\Day2\HandsOnArrays\bin\Debug\net8.0\HandsOnArrays.dll
+C:\Usama Bin Jafar\C#\Day2\HandsOnArrays\bin\Debug\net8.0\HandsOnArrays.pdb
+C:\Usama Bin Jafar\C#\Day2\HandsOnArrays\obj\Debug\net8.0\HandsOnArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Usama Bin Jafar\C#\Day2\HandsOnArrays\obj\Debug\net8.0\HandsOnArrays.AssemblyInfoInputs.cache
+C:\Usama Bin Jafar\C#\Day2\HandsOnArrays\obj\Debug\net8.0\HandsOnArrays.AssemblyInfo.cs
+C:\Usama Bin Jafar\C#\Day2\HandsOnArrays\obj\Debug\net8.0\HandsOnArrays.csproj.CoreCompileInputs.cache
+C:\Usama Bin Jafar\C#\Day2\HandsOnArrays\obj\Debug\net8.0\HandsOnArrays.dll
+C:\Usama Bin Jafar\C#\Day2\HandsOnArrays\obj\Debug\net8.0\refint\HandsOnArrays.dll
+C:\Usama Bin Jafar\C#\Day2\HandsOnArrays\obj\Debug\net8.0\HandsOnArrays.pdb
+C:\Usama Bin Jafar\C#\Day2\HandsOnArrays\obj\Debug\net8.0\HandsOnArrays.genruntimeconfig.cache
+C:\Usama Bin Jafar\C#\Day2\HandsOnArrays\obj\Debug\net8.0\ref\HandsOnArrays.dll

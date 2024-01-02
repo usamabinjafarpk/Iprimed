@@ -1,0 +1,14 @@
+C:\Usama Bin Jafar\C#\Day6\HandsOnNonGenericCollections\bin\Debug\net8.0\HandsOnNonGenericCollections.exe
+C:\Usama Bin Jafar\C#\Day6\HandsOnNonGenericCollections\bin\Debug\net8.0\HandsOnNonGenericCollections.deps.json
+C:\Usama Bin Jafar\C#\Day6\HandsOnNonGenericCollections\bin\Debug\net8.0\HandsOnNonGenericCollections.runtimeconfig.json
+C:\Usama Bin Jafar\C#\Day6\HandsOnNonGenericCollections\bin\Debug\net8.0\HandsOnNonGenericCollections.dll
+C:\Usama Bin Jafar\C#\Day6\HandsOnNonGenericCollections\bin\Debug\net8.0\HandsOnNonGenericCollections.pdb
+C:\Usama Bin Jafar\C#\Day6\HandsOnNonGenericCollections\obj\Debug\net8.0\HandsOnNonGenericCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Usama Bin Jafar\C#\Day6\HandsOnNonGenericCollections\obj\Debug\net8.0\HandsOnNonGenericCollections.AssemblyInfoInputs.cache
+C:\Usama Bin Jafar\C#\Day6\HandsOnNonGenericCollections\obj\Debug\net8.0\HandsOnNonGenericCollections.AssemblyInfo.cs
+C:\Usama Bin Jafar\C#\Day6\HandsOnNonGenericCollections\obj\Debug\net8.0\HandsOnNonGenericCollections.csproj.CoreCompileInputs.cache
+C:\Usama Bin Jafar\C#\Day6\HandsOnNonGenericCollections\obj\Debug\net8.0\HandsOnNonGenericCollections.dll
+C:\Usama Bin Jafar\C#\Day6\HandsOnNonGenericCollections\obj\Debug\net8.0\refint\HandsOnNonGenericCollections.dll
+C:\Usama Bin Jafar\C#\Day6\HandsOnNonGenericCollections\obj\Debug\net8.0\HandsOnNonGenericCollections.pdb
+C:\Usama Bin Jafar\C#\Day6\HandsOnNonGenericCollections\obj\Debug\net8.0\HandsOnNonGenericCollections.genruntimeconfig.cache
+C:\Usama Bin Jafar\C#\Day6\HandsOnNonGenericCollections\obj\Debug\net8.0\ref\HandsOnNonGenericCollections.dll

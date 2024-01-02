@@ -1,0 +1,14 @@
+C:\Usama Bin Jafar\C#\Day1\MyFirstConsoleApp\bin\Debug\net8.0\MyFirstConsoleApp.exe
+C:\Usama Bin Jafar\C#\Day1\MyFirstConsoleApp\bin\Debug\net8.0\MyFirstConsoleApp.deps.json
+C:\Usama Bin Jafar\C#\Day1\MyFirstConsoleApp\bin\Debug\net8.0\MyFirstConsoleApp.runtimeconfig.json
+C:\Usama Bin Jafar\C#\Day1\MyFirstConsoleApp\bin\Debug\net8.0\MyFirstConsoleApp.dll
+C:\Usama Bin Jafar\C#\Day1\MyFirstConsoleApp\bin\Debug\net8.0\MyFirstConsoleApp.pdb
+C:\Usama Bin Jafar\C#\Day1\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Usama Bin Jafar\C#\Day1\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.AssemblyInfoInputs.cache
+C:\Usama Bin Jafar\C#\Day1\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.AssemblyInfo.cs
+C:\Usama Bin Jafar\C#\Day1\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.csproj.CoreCompileInputs.cache
+C:\Usama Bin Jafar\C#\Day1\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.dll
+C:\Usama Bin Jafar\C#\Day1\MyFirstConsoleApp\obj\Debug\net8.0\refint\MyFirstConsoleApp.dll
+C:\Usama Bin Jafar\C#\Day1\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.pdb
+C:\Usama Bin Jafar\C#\Day1\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.genruntimeconfig.cache
+C:\Usama Bin Jafar\C#\Day1\MyFirstConsoleApp\obj\Debug\net8.0\ref\MyFirstConsoleApp.dll

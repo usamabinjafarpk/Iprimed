@@ -1,0 +1,14 @@
+C:\Usama Bin Jafar\C#\Day2\HandsOnConditionalAndIterativeStatements\bin\Debug\net8.0\HandsOnConditionalAndIterativeStatements.exe
+C:\Usama Bin Jafar\C#\Day2\HandsOnConditionalAndIterativeStatements\bin\Debug\net8.0\HandsOnConditionalAndIterativeStatements.deps.json
+C:\Usama Bin Jafar\C#\Day2\HandsOnConditionalAndIterativeStatements\bin\Debug\net8.0\HandsOnConditionalAndIterativeStatements.runtimeconfig.json
+C:\Usama Bin Jafar\C#\Day2\HandsOnConditionalAndIterativeStatements\bin\Debug\net8.0\HandsOnConditionalAndIterativeStatements.dll
+C:\Usama Bin Jafar\C#\Day2\HandsOnConditionalAndIterativeStatements\bin\Debug\net8.0\HandsOnConditionalAndIterativeStatements.pdb
+C:\Usama Bin Jafar\C#\Day2\HandsOnConditionalAndIterativeStatements\obj\Debug\net8.0\HandsOnConditionalAndIterativeStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Usama Bin Jafar\C#\Day2\HandsOnConditionalAndIterativeStatements\obj\Debug\net8.0\HandsOnConditionalAndIterativeStatements.AssemblyInfoInputs.cache
+C:\Usama Bin Jafar\C#\Day2\HandsOnConditionalAndIterativeStatements\obj\Debug\net8.0\HandsOnConditionalAndIterativeStatements.AssemblyInfo.cs
+C:\Usama Bin Jafar\C#\Day2\HandsOnConditionalAndIterativeStatements\obj\Debug\net8.0\HandsOnConditionalAndIterativeStatements.csproj.CoreCompileInputs.cache
+C:\Usama Bin Jafar\C#\Day2\HandsOnConditionalAndIterativeStatements\obj\Debug\net8.0\HandsOnConditionalAndIterativeStatements.dll
+C:\Usama Bin Jafar\C#\Day2\HandsOnConditionalAndIterativeStatements\obj\Debug\net8.0\refint\HandsOnConditionalAndIterativeStatements.dll
+C:\Usama Bin Jafar\C#\Day2\HandsOnConditionalAndIterativeStatements\obj\Debug\net8.0\HandsOnConditionalAndIterativeStatements.pdb
+C:\Usama Bin Jafar\C#\Day2\HandsOnConditionalAndIterativeStatements\obj\Debug\net8.0\HandsOnConditionalAndIterativeStatements.genruntimeconfig.cache
+C:\Usama Bin Jafar\C#\Day2\HandsOnConditionalAndIterativeStatements\obj\Debug\net8.0\ref\HandsOnConditionalAndIterativeStatements.dll

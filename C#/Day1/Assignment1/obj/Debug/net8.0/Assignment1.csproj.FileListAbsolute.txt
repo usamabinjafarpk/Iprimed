@@ -1,0 +1,14 @@
+C:\Usama Bin Jafar\C#\Day1\Assignment1\bin\Debug\net8.0\Assignment1.exe
+C:\Usama Bin Jafar\C#\Day1\Assignment1\bin\Debug\net8.0\Assignment1.deps.json
+C:\Usama Bin Jafar\C#\Day1\Assignment1\bin\Debug\net8.0\Assignment1.runtimeconfig.json
+C:\Usama Bin Jafar\C#\Day1\Assignment1\bin\Debug\net8.0\Assignment1.dll
+C:\Usama Bin Jafar\C#\Day1\Assignment1\bin\Debug\net8.0\Assignment1.pdb
+C:\Usama Bin Jafar\C#\Day1\Assignment1\obj\Debug\net8.0\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Usama Bin Jafar\C#\Day1\Assignment1\obj\Debug\net8.0\Assignment1.AssemblyInfoInputs.cache
+C:\Usama Bin Jafar\C#\Day1\Assignment1\obj\Debug\net8.0\Assignment1.AssemblyInfo.cs
+C:\Usama Bin Jafar\C#\Day1\Assignment1\obj\Debug\net8.0\Assignment1.csproj.CoreCompileInputs.cache
+C:\Usama Bin Jafar\C#\Day1\Assignment1\obj\Debug\net8.0\Assignment1.dll
+C:\Usama Bin Jafar\C#\Day1\Assignment1\obj\Debug\net8.0\refint\Assignment1.dll
+C:\Usama Bin Jafar\C#\Day1\Assignment1\obj\Debug\net8.0\Assignment1.pdb
+C:\Usama Bin Jafar\C#\Day1\Assignment1\obj\Debug\net8.0\Assignment1.genruntimeconfig.cache
+C:\Usama Bin Jafar\C#\Day1\Assignment1\obj\Debug\net8.0\ref\Assignment1.dll

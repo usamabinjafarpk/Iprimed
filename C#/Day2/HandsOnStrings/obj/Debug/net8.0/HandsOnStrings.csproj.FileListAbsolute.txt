@@ -1,0 +1,14 @@
+C:\Usama Bin Jafar\C#\Day2\HandsOnStrings\obj\Debug\net8.0\HandsOnStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Usama Bin Jafar\C#\Day2\HandsOnStrings\obj\Debug\net8.0\HandsOnStrings.AssemblyInfoInputs.cache
+C:\Usama Bin Jafar\C#\Day2\HandsOnStrings\obj\Debug\net8.0\HandsOnStrings.AssemblyInfo.cs
+C:\Usama Bin Jafar\C#\Day2\HandsOnStrings\obj\Debug\net8.0\HandsOnStrings.csproj.CoreCompileInputs.cache
+C:\Usama Bin Jafar\C#\Day2\HandsOnStrings\bin\Debug\net8.0\HandsOnStrings.exe
+C:\Usama Bin Jafar\C#\Day2\HandsOnStrings\bin\Debug\net8.0\HandsOnStrings.deps.json
+C:\Usama Bin Jafar\C#\Day2\HandsOnStrings\bin\Debug\net8.0\HandsOnStrings.runtimeconfig.json
+C:\Usama Bin Jafar\C#\Day2\HandsOnStrings\bin\Debug\net8.0\HandsOnStrings.dll
+C:\Usama Bin Jafar\C#\Day2\HandsOnStrings\bin\Debug\net8.0\HandsOnStrings.pdb
+C:\Usama Bin Jafar\C#\Day2\HandsOnStrings\obj\Debug\net8.0\HandsOnStrings.dll
+C:\Usama Bin Jafar\C#\Day2\HandsOnStrings\obj\Debug\net8.0\refint\HandsOnStrings.dll
+C:\Usama Bin Jafar\C#\Day2\HandsOnStrings\obj\Debug\net8.0\HandsOnStrings.pdb
+C:\Usama Bin Jafar\C#\Day2\HandsOnStrings\obj\Debug\net8.0\HandsOnStrings.genruntimeconfig.cache
+C:\Usama Bin Jafar\C#\Day2\HandsOnStrings\obj\Debug\net8.0\ref\HandsOnStrings.dll

@@ -1,0 +1,14 @@
+C:\Usama Bin Jafar\C#\Day4\HandsOnConstructorsAndProperties\bin\Debug\net8.0\HandsOnConstructorsAndProperties.exe
+C:\Usama Bin Jafar\C#\Day4\HandsOnConstructorsAndProperties\bin\Debug\net8.0\HandsOnConstructorsAndProperties.deps.json
+C:\Usama Bin Jafar\C#\Day4\HandsOnConstructorsAndProperties\bin\Debug\net8.0\HandsOnConstructorsAndProperties.runtimeconfig.json
+C:\Usama Bin Jafar\C#\Day4\HandsOnConstructorsAndProperties\bin\Debug\net8.0\HandsOnConstructorsAndProperties.dll
+C:\Usama Bin Jafar\C#\Day4\HandsOnConstructorsAndProperties\bin\Debug\net8.0\HandsOnConstructorsAndProperties.pdb
+C:\Usama Bin Jafar\C#\Day4\HandsOnConstructorsAndProperties\obj\Debug\net8.0\HandsOnConstructorsAndProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Usama Bin Jafar\C#\Day4\HandsOnConstructorsAndProperties\obj\Debug\net8.0\HandsOnConstructorsAndProperties.AssemblyInfoInputs.cache
+C:\Usama Bin Jafar\C#\Day4\HandsOnConstructorsAndProperties\obj\Debug\net8.0\HandsOnConstructorsAndProperties.AssemblyInfo.cs
+C:\Usama Bin Jafar\C#\Day4\HandsOnConstructorsAndProperties\obj\Debug\net8.0\HandsOnConstructorsAndProperties.csproj.CoreCompileInputs.cache
+C:\Usama Bin Jafar\C#\Day4\HandsOnConstructorsAndProperties\obj\Debug\net8.0\HandsOnConstructorsAndProperties.dll
+C:\Usama Bin Jafar\C#\Day4\HandsOnConstructorsAndProperties\obj\Debug\net8.0\refint\HandsOnConstructorsAndProperties.dll
+C:\Usama Bin Jafar\C#\Day4\HandsOnConstructorsAndProperties\obj\Debug\net8.0\HandsOnConstructorsAndProperties.pdb
+C:\Usama Bin Jafar\C#\Day4\HandsOnConstructorsAndProperties\obj\Debug\net8.0\HandsOnConstructorsAndProperties.genruntimeconfig.cache
+C:\Usama Bin Jafar\C#\Day4\HandsOnConstructorsAndProperties\obj\Debug\net8.0\ref\HandsOnConstructorsAndProperties.dll

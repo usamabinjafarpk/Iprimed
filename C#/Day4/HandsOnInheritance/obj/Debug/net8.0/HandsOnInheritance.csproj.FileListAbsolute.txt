@@ -1,0 +1,14 @@
+C:\Usama Bin Jafar\C#\Day4\HandsOnInheritance\bin\Debug\net8.0\HandsOnInheritance.exe
+C:\Usama Bin Jafar\C#\Day4\HandsOnInheritance\bin\Debug\net8.0\HandsOnInheritance.deps.json
+C:\Usama Bin Jafar\C#\Day4\HandsOnInheritance\bin\Debug\net8.0\HandsOnInheritance.runtimeconfig.json
+C:\Usama Bin Jafar\C#\Day4\HandsOnInheritance\bin\Debug\net8.0\HandsOnInheritance.dll
+C:\Usama Bin Jafar\C#\Day4\HandsOnInheritance\bin\Debug\net8.0\HandsOnInheritance.pdb
+C:\Usama Bin Jafar\C#\Day4\HandsOnInheritance\obj\Debug\net8.0\HandsOnInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Usama Bin Jafar\C#\Day4\HandsOnInheritance\obj\Debug\net8.0\HandsOnInheritance.AssemblyInfoInputs.cache
+C:\Usama Bin Jafar\C#\Day4\HandsOnInheritance\obj\Debug\net8.0\HandsOnInheritance.AssemblyInfo.cs
+C:\Usama Bin Jafar\C#\Day4\HandsOnInheritance\obj\Debug\net8.0\HandsOnInheritance.csproj.CoreCompileInputs.cache
+C:\Usama Bin Jafar\C#\Day4\HandsOnInheritance\obj\Debug\net8.0\HandsOnInheritance.dll
+C:\Usama Bin Jafar\C#\Day4\HandsOnInheritance\obj\Debug\net8.0\refint\HandsOnInheritance.dll
+C:\Usama Bin Jafar\C#\Day4\HandsOnInheritance\obj\Debug\net8.0\HandsOnInheritance.pdb
+C:\Usama Bin Jafar\C#\Day4\HandsOnInheritance\obj\Debug\net8.0\HandsOnInheritance.genruntimeconfig.cache
+C:\Usama Bin Jafar\C#\Day4\HandsOnInheritance\obj\Debug\net8.0\ref\HandsOnInheritance.dll

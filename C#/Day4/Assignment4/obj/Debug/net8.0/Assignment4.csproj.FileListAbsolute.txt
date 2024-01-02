@@ -1,0 +1,14 @@
+C:\Usama Bin Jafar\C#\Day4\Assignment4\bin\Debug\net8.0\Assignment4.exe
+C:\Usama Bin Jafar\C#\Day4\Assignment4\bin\Debug\net8.0\Assignment4.deps.json
+C:\Usama Bin Jafar\C#\Day4\Assignment4\bin\Debug\net8.0\Assignment4.runtimeconfig.json
+C:\Usama Bin Jafar\C#\Day4\Assignment4\bin\Debug\net8.0\Assignment4.dll
+C:\Usama Bin Jafar\C#\Day4\Assignment4\bin\Debug\net8.0\Assignment4.pdb
+C:\Usama Bin Jafar\C#\Day4\Assignment4\obj\Debug\net8.0\Assignment4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Usama Bin Jafar\C#\Day4\Assignment4\obj\Debug\net8.0\Assignment4.AssemblyInfoInputs.cache
+C:\Usama Bin Jafar\C#\Day4\Assignment4\obj\Debug\net8.0\Assignment4.AssemblyInfo.cs
+C:\Usama Bin Jafar\C#\Day4\Assignment4\obj\Debug\net8.0\Assignment4.csproj.CoreCompileInputs.cache
+C:\Usama Bin Jafar\C#\Day4\Assignment4\obj\Debug\net8.0\Assignment4.dll
+C:\Usama Bin Jafar\C#\Day4\Assignment4\obj\Debug\net8.0\refint\Assignment4.dll
+C:\Usama Bin Jafar\C#\Day4\Assignment4\obj\Debug\net8.0\Assignment4.pdb
+C:\Usama Bin Jafar\C#\Day4\Assignment4\obj\Debug\net8.0\Assignment4.genruntimeconfig.cache
+C:\Usama Bin Jafar\C#\Day4\Assignment4\obj\Debug\net8.0\ref\Assignment4.dll

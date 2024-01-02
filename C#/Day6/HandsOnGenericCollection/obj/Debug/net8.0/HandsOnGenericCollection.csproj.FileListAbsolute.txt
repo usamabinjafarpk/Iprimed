@@ -1,0 +1,14 @@
+C:\Usama Bin Jafar\C#\Day6\HandsOnGenericCollection\bin\Debug\net8.0\HandsOnGenericCollection.exe
+C:\Usama Bin Jafar\C#\Day6\HandsOnGenericCollection\bin\Debug\net8.0\HandsOnGenericCollection.deps.json
+C:\Usama Bin Jafar\C#\Day6\HandsOnGenericCollection\bin\Debug\net8.0\HandsOnGenericCollection.runtimeconfig.json
+C:\Usama Bin Jafar\C#\Day6\HandsOnGenericCollection\bin\Debug\net8.0\HandsOnGenericCollection.dll
+C:\Usama Bin Jafar\C#\Day6\HandsOnGenericCollection\bin\Debug\net8.0\HandsOnGenericCollection.pdb
+C:\Usama Bin Jafar\C#\Day6\HandsOnGenericCollection\obj\Debug\net8.0\HandsOnGenericCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Usama Bin Jafar\C#\Day6\HandsOnGenericCollection\obj\Debug\net8.0\HandsOnGenericCollection.AssemblyInfoInputs.cache
+C:\Usama Bin Jafar\C#\Day6\HandsOnGenericCollection\obj\Debug\net8.0\HandsOnGenericCollection.AssemblyInfo.cs
+C:\Usama Bin Jafar\C#\Day6\HandsOnGenericCollection\obj\Debug\net8.0\HandsOnGenericCollection.csproj.CoreCompileInputs.cache
+C:\Usama Bin Jafar\C#\Day6\HandsOnGenericCollection\obj\Debug\net8.0\HandsOnGenericCollection.dll
+C:\Usama Bin Jafar\C#\Day6\HandsOnGenericCollection\obj\Debug\net8.0\refint\HandsOnGenericCollection.dll
+C:\Usama Bin Jafar\C#\Day6\HandsOnGenericCollection\obj\Debug\net8.0\HandsOnGenericCollection.pdb
+C:\Usama Bin Jafar\C#\Day6\HandsOnGenericCollection\obj\Debug\net8.0\HandsOnGenericCollection.genruntimeconfig.cache
+C:\Usama Bin Jafar\C#\Day6\HandsOnGenericCollection\obj\Debug\net8.0\ref\HandsOnGenericCollection.dll

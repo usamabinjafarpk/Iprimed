@@ -1,0 +1,14 @@
+C:\Usama Bin Jafar\C#\Day5\HandsOnInterfaces\bin\Debug\net8.0\HandsOnInterfaces.exe
+C:\Usama Bin Jafar\C#\Day5\HandsOnInterfaces\bin\Debug\net8.0\HandsOnInterfaces.deps.json
+C:\Usama Bin Jafar\C#\Day5\HandsOnInterfaces\bin\Debug\net8.0\HandsOnInterfaces.runtimeconfig.json
+C:\Usama Bin Jafar\C#\Day5\HandsOnInterfaces\bin\Debug\net8.0\HandsOnInterfaces.dll
+C:\Usama Bin Jafar\C#\Day5\HandsOnInterfaces\bin\Debug\net8.0\HandsOnInterfaces.pdb
+C:\Usama Bin Jafar\C#\Day5\HandsOnInterfaces\obj\Debug\net8.0\HandsOnInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Usama Bin Jafar\C#\Day5\HandsOnInterfaces\obj\Debug\net8.0\HandsOnInterfaces.AssemblyInfoInputs.cache
+C:\Usama Bin Jafar\C#\Day5\HandsOnInterfaces\obj\Debug\net8.0\HandsOnInterfaces.AssemblyInfo.cs
+C:\Usama Bin Jafar\C#\Day5\HandsOnInterfaces\obj\Debug\net8.0\HandsOnInterfaces.csproj.CoreCompileInputs.cache
+C:\Usama Bin Jafar\C#\Day5\HandsOnInterfaces\obj\Debug\net8.0\HandsOnInterfaces.dll
+C:\Usama Bin Jafar\C#\Day5\HandsOnInterfaces\obj\Debug\net8.0\refint\HandsOnInterfaces.dll
+C:\Usama Bin Jafar\C#\Day5\HandsOnInterfaces\obj\Debug\net8.0\HandsOnInterfaces.pdb
+C:\Usama Bin Jafar\C#\Day5\HandsOnInterfaces\obj\Debug\net8.0\HandsOnInterfaces.genruntimeconfig.cache
+C:\Usama Bin Jafar\C#\Day5\HandsOnInterfaces\obj\Debug\net8.0\ref\HandsOnInterfaces.dll
