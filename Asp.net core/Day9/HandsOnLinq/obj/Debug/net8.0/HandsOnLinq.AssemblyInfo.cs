@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HandsOnLinq")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f013f4bfc3e96b05d404bab77c6fa7b64ee369a")]
 [assembly: System.Reflection.AssemblyProductAttribute("HandsOnLinq")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HandsOnLinq")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

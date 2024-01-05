@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Usama Bin Jafar\\Asp.net core\\Day9\\HandsOnLinq\\HandsOnLinq.csproj": {}
+    "C:\\Usama\\Iprimed\\Asp.net core\\Day9\\HandsOnLinq\\HandsOnLinq.csproj": {}
   },
   "projects": {
-    "C:\\Usama Bin Jafar\\Asp.net core\\Day9\\HandsOnLinq\\HandsOnLinq.csproj": {
+    "C:\\Usama\\Iprimed\\Asp.net core\\Day9\\HandsOnLinq\\HandsOnLinq.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Usama Bin Jafar\\Asp.net core\\Day9\\HandsOnLinq\\HandsOnLinq.csproj",
+        "projectUniqueName": "C:\\Usama\\Iprimed\\Asp.net core\\Day9\\HandsOnLinq\\HandsOnLinq.csproj",
         "projectName": "HandsOnLinq",
-        "projectPath": "C:\\Usama Bin Jafar\\Asp.net core\\Day9\\HandsOnLinq\\HandsOnLinq.csproj",
+        "projectPath": "C:\\Usama\\Iprimed\\Asp.net core\\Day9\\HandsOnLinq\\HandsOnLinq.csproj",
         "packagesPath": "C:\\Users\\ubinjafa\\.nuget\\packages\\",
-        "outputPath": "C:\\Usama Bin Jafar\\Asp.net core\\Day9\\HandsOnLinq\\obj\\",
+        "outputPath": "C:\\Usama\\Iprimed\\Asp.net core\\Day9\\HandsOnLinq\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ubinjafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
