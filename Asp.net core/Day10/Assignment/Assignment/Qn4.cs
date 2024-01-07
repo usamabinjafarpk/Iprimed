@@ -20,10 +20,20 @@ namespace Assignment
                  new Order(3,"pen",new DateTime(1900,07,10),189),
                  new Order(4,"notes",new DateTime(2020,09,05),809)
             };
-            var s=list.OrderByDescending(a=>a.date.Month);
-            foreach(var o in s)
+            
+            var res = from order1 in list
+                      orderby order1.date descending
+                      group order1 by order1.date.Month;
+
+            Console.WriteLine("Details grouped by month in descending order of the order date:");
+            foreach (var order in res)
             {
-                Console.WriteLine($"Id:{o.OrderId} Name:{o.ItemName} Date:{o.date.ToShortDateString()} Qty:{o.Qty}");
+                Console.WriteLine($"Month: {order.Key}");
+                foreach (var item in order)
+                {
+                    Console.WriteLine(item.ItemName);
+                }
+                Console.WriteLine();
             }
         }
     }

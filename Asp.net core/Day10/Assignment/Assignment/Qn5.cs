@@ -59,7 +59,6 @@ namespace Assignment
             var res = from i in list
                       join j in list2
                       on i.ItemName equals j.ItemName
-                      /*select new { id = i.OrderId, name = i.ItemName, dt = i.date, price = (i.Qty * j.Price) };*/
                       select new ItemPrint(i.OrderId, i.ItemName, i.date, (i.Qty * j.Price));
         var res1 = res.OrderByDescending(o => o.date.Month);
             foreach(var i in res1)
