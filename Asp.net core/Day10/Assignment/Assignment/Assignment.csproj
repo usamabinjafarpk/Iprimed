@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Assignment.Qn4</StartupObject>
+    <StartupObject>Assignment.Qn10</StartupObject>
   </PropertyGroup>
 
 </Project>

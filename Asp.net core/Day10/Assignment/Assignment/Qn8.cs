@@ -1,4 +1,4 @@
-﻿using System;
+﻿/*using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -18,6 +18,9 @@ namespace Assignment
                  new Order(4,"notes",new DateTime(2020,09,05),809),
                  new Order(5,"eraser",new DateTime(2024,01,05),800)
             };
+            var res=from i in list
+                    
         }
     }
 }
+*/
