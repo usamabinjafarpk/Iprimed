@@ -22,7 +22,11 @@ namespace Assignment
             };
 
 
-           
+           var res=from i in list
+                   select i.Qty;
+
+            Console.Write("Sum:"+res.Sum());
+            Console.WriteLine();
 
             var result = (from f in list
                           group f by f.ItemName into od
