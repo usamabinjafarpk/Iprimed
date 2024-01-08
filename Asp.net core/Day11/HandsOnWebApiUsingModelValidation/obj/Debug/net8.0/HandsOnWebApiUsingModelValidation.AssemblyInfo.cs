@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HandsOnWebApiUsingModelValidation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e217c33bf1dd7975f22de61168039ced321b264")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("HandsOnWebApiUsingModelValidation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HandsOnWebApiUsingModelValidation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

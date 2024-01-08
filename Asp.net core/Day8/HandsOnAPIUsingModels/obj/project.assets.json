@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Usama Bin Jafar\\Asp.net core\\Day8\\HandsOnAPIUsingModels\\HandsOnAPIUsingModels.csproj",
+      "projectUniqueName": "C:\\Usama\\Iprimed\\Asp.net core\\Day8\\HandsOnAPIUsingModels\\HandsOnAPIUsingModels.csproj",
       "projectName": "HandsOnAPIUsingModels",
-      "projectPath": "C:\\Usama Bin Jafar\\Asp.net core\\Day8\\HandsOnAPIUsingModels\\HandsOnAPIUsingModels.csproj",
+      "projectPath": "C:\\Usama\\Iprimed\\Asp.net core\\Day8\\HandsOnAPIUsingModels\\HandsOnAPIUsingModels.csproj",
       "packagesPath": "C:\\Users\\ubinjafa\\.nuget\\packages\\",
-      "outputPath": "C:\\Usama Bin Jafar\\Asp.net core\\Day8\\HandsOnAPIUsingModels\\obj\\",
+      "outputPath": "C:\\Usama\\Iprimed\\Asp.net core\\Day8\\HandsOnAPIUsingModels\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ubinjafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
