@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HandsOnWebApiUsingModelValidation.props" />
+</Project>

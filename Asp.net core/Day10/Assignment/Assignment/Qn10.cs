@@ -22,11 +22,18 @@ namespace Assignment
             };
 
 
-            var res = from i in list
-                      select i.Qty;
-            Console.WriteLine("Sum of qty:"+res.Sum());
-            Console.WriteLine();
-            var res1=list.OrderByDescending(i => i.Qty);
+           
+
+            var result = (from f in list
+                          group f by f.ItemName into od
+                          let op = od.Sum(f => f.Qty)
+                          orderby op descending
+                          select new { op1 = op, name = od.Key }).FirstOrDefault();
+
+
+            Console.WriteLine("The item that has overall maximum orders: " + result.name + " qty :" + result.op1);
+
+            var res1 = list.OrderByDescending(i => i.Qty);
             foreach (var i in res1)
                 Console.WriteLine($"Id:{i.OrderId} Item Name:{i.ItemName} Order date:{i.date} Qty:{i.Qty}");
         }
