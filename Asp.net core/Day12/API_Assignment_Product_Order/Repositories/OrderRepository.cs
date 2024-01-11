@@ -4,17 +4,19 @@ namespace API_Assignment_Product_Order.Repositories
 {
     public class OrderRepository : IOrderRepository
     {
-        public void DeleteProduct(int ProductId)
+        public void DeltOrder(int OrdId)
+        {
+            List<Order> _order = new List<Order>();
+            List<Product> _Prod = productRepository.products;
+
+        }
+
+        public List<Order> GetAllOders()
         {
             throw new NotImplementedException();
         }
 
-        public List<Order> GetOrders()
-        {
-            throw new NotImplementedException();
-        }
-
-        public void Order(Order order)
+        public void OredrProd(int id, Order order, Product product)
         {
             throw new NotImplementedException();
         }
