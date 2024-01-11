@@ -4,61 +4,99 @@ namespace API_Assignment_Product_Order.Repositories
 {
     public class ProductRepository : IProductRepository
     {
-        public List<Product> products = new List<Product>();
+        public static List<Product> products = new List<Product>();
+
+        int id = 101;
+
         public void AddProduct(Product product)
         {
+            product.ProductID = id;
             products.Add(product);
+            id++;
         }
 
-        public void DeleteProduct(int id)
+        public string DeleteProduct(int id)
         {
+            int flag = 0;
             foreach (Product product in products)
             {
-                if (product.Product_Id == id)
+                if (product.ProductID == id)
                 {
+                    flag = 1;
                     products.Remove(product);
+                    break;
                 }
+
+            }
+
+            if (flag == 1)
+            {
+                return "Product deleted...";
+
+            }
+
+            else
+            {
+                return "Invalid Product ID...";
             }
         }
 
-        public List<Product> GetProductsByCategory(string category)
+
+        public List<Product> GetProductByCategory(string Category)
         {
-            List<Product> res = new List<Product>();
+            List<Product> selectedProducts = new List<Product>();
             foreach (Product product in products)
             {
-                if (category.Equals(product.Category))
-                {
-                    res.Add(product);
-                }
+                if (product.Category == Category)
+                    selectedProducts.Add(product);
             }
-            return res;
+
+            return selectedProducts;
         }
 
-        public List<Product> GetProductsByNameOrCategory(string name, string category)
+        public Product GetProductByIdorName(int? productId, string? productName)
         {
-            List <Product> res = new List<Product>();
+
             foreach (Product product in products)
             {
-                if (category.Equals(product.Category) || name.Equals(product.Product_Name))
+                if (productId != null)
                 {
-                    res.Add(product);
+                    if (productId == product.ProductID)
+                        return product;
                 }
+                else
+                {
+                    if (productName != null)
+                    {
+                        if (productName == product.ProductName)
+                            return product;
+                    }
+                }
+
             }
-            return res;
+            return null;
         }
 
-        public void UpdateProduct(Product product)
+        public string ModifyProduct(Product product)
         {
-            foreach(var item in products)
+            int flag = 0;
+            foreach (Product product1 in products)
             {
-                if(item.Product_Id == product.Product_Id)
+                if (product1.ProductID == product.ProductID)
                 {
-                    item.Product_Name = product.Product_Name;
-                    item.Price = product.Price;
-                    item.Category = product.Category;
-                    item.Stock = product.Stock;
+                    flag = 1;
+                    product1.ProductName = product.ProductName;
+                    product1.Price = product.Price;
+                    product1.Category = product.Category;
+                    product1.Stock = product.Stock;
                 }
             }
+            if (flag != 0)
+            {
+                return "Product Modified...";
+            }
+            else
+                return "Invalid Product ID";
         }
     }
 }

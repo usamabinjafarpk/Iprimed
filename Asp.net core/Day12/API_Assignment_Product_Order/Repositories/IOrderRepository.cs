@@ -4,8 +4,8 @@ namespace API_Assignment_Product_Order.Repositories
 {
     public interface IOrderRepository
     {
-        public void OredrProd(int id, Order order, Product product);
-        public List<Order> GetAllOders();
-        public void DeltOrder(int OrdId);
+        string OrderProduct(Order order);
+        List<Order> GetOrders();
+        void DeleteOrder(int id);
     }
 }

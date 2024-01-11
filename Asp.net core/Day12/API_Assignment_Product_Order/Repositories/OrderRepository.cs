@@ -4,21 +4,42 @@ namespace API_Assignment_Product_Order.Repositories
 {
     public class OrderRepository : IOrderRepository
     {
-        public void DeltOrder(int OrdId)
+        List<Product> productList = ProductRepository.products;
+        List<Order> orders = new List<Order>();
+        public void DeleteOrder(int id)
         {
-            List<Order> _order = new List<Order>();
-            List<Product> _Prod = productRepository.products;
-
+            foreach (Order order in orders)
+            {
+                if (order.OrderId == id)
+                {
+                    orders.Remove(order);
+                    return;
+                }
+            }
         }
 
-        public List<Order> GetAllOders()
+        public List<Order> GetOrders()
         {
-            throw new NotImplementedException();
+            return orders;
         }
 
-        public void OredrProd(int id, Order order, Product product)
+        public string OrderProduct(Order order)
         {
-            throw new NotImplementedException();
+            Product? o = (from pr in productList
+                          where order.ProductId == pr.ProductID
+                          select pr).SingleOrDefault();
+
+            if (o == null)
+            {
+                return "No products available";
+            }
+            else
+            {
+                order.TotalPrice = o.Price * order.Quantity;
+                orders.Add(order);
+                return ("Order placed...");
+            }
+
         }
     }
 }
