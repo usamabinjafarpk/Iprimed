@@ -70,7 +70,7 @@ select DISTINCT DEPARTMENT from Worker;
 select LEFT(FIRST_NAME, 3) AS FIRSTNAME from Worker;
  
 -- 5. Find the position of the alphabet (‘a’) in the first name column ‘Amitabh’ from Worker table
-SELECT POSITION('a' IN FIRST_NAME) FROM Worker WHERE FIRST_NAME = 'Amitabh';
+SELECT CHARINDEX('a', 'Amitabh') AS POSITION_OF_A;
 
 -- 6. Print the FIRST_NAME from Worker table after removing white spaces from the right side
 select RTRIM(FIRST_NAME) AS FIRSTNAME FROM Worker;
@@ -131,7 +131,7 @@ ORDER BY No_Of_Workers DESC;
 SELECT DISTINCT W.FIRST_NAME, T.WORKER_TITLE FROM Worker W JOIN Title T ON W.WORKER_ID = T.WORKER_REF_ID AND T.WORKER_TITLE in ('Manager'); 
 
 --24.Write an SQL query to show the current date and time. 
-SELECT gETDATE();
+SELECT GETDATE();
 
 --25.Write an SQL query to show the top n (say 10) records of a table. 
 SELECT TOP 10*from Worker Order by JOINING_DATE desc

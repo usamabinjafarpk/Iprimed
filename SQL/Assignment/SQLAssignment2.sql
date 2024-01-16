@@ -57,30 +57,45 @@ insert into Works_on values(29346,'p3','clerk','1997.11.15')
 insert into Works_on values(29346,'p1','clerk','1998.1.4')
 -- 1. Get all rows of the works_on table.
 SELECT * FROM Works_on;
+
 -- 2. Get the employee numbers for all clerks.
 SELECT emp_no FROM Employee WHERE emp_no IN (SELECT emp_no FROM Works_on WHERE Job = 'Clerk');
+
 -- 3. Get the employee numbers for employees working in project p2 and having employee numbers smaller than 10000.
 SELECT emp_no FROM Works_on WHERE project_no = 'p2' AND emp_no < 10000;
+
 -- 4. Get the employee numbers for all employees who didn’t enter their project in 1998.
 SELECT emp_no FROM Works_on WHERE YEAR(enter_date) != 1998;
+
 -- 5. Get the employee numbers for all employees who have a leading job (i.e., Analyst or Manager) in project p1.
 SELECT emp_no FROM Works_on WHERE project_no = 'p1' AND Job IN ('Analyst', 'Manager');
+
 -- 6. Get the enter dates for all employees in project p2 whose jobs have not been determined yet.
 SELECT enter_date FROM Works_on WHERE project_no = 'p2' AND Job IS NULL;
+
+--
+
 -- 7. Get the employee numbers and last names of all employees whose first names contain two letter t’s.
 SELECT emp_no, emp_lname FROM Employee WHERE emp_fname LIKE '%t%t%';
+
 -- 8. Get the employee numbers and first names of all employees whose last names have a letter o or a as the second character and end with the letters es.
 SELECT emp_no, emp_fname FROM Employee WHERE emp_lname LIKE '_[oa]%es';
+
 -- 9. Get the employee numbers of all employees whose departments are located in Seattle.
 SELECT emp_no FROM Employee WHERE dept_no IN (SELECT Dept_no FROM Department WHERE location = 'Seattle');
+
 -- 10. Find the last and first names of all employees who entered their projects on 04.01.1998.
 SELECT emp_fname, emp_lname FROM Employee WHERE emp_no IN (SELECT emp_no FROM Works_on WHERE enter_date = '1998.1.4');
+
 -- 11. Group all departments using their locations.
-SELECT location, C(Dept_no) AS Departments FROM Department GROUP BY location;
+SELECT Location, COUNT(Dept_name) FROM Department GROUP BY Location;
+
 -- 12. Find the biggest employee number.
 SELECT MAX(emp_no) AS Biggest_Employee_Number FROM Employee;
+
 -- 13. Get the jobs that are done by more than two employees.
 SELECT Job FROM Works_on GROUP BY Job HAVING COUNT(Job) > 2;
+
 -- 14. Find the employee numbers of all employees who are clerks or work for department d3.
 SELECT emp_no FROM Employee WHERE dept_no = 'd3' OR emp_no IN (SELECT emp_no FROM Works_on WHERE Job = 'Clerk');
  
