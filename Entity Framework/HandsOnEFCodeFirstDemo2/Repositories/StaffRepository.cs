@@ -6,10 +6,15 @@ namespace HandsOnEFCodeFirstDemo2.Repositories
     {
         private readonly MyContext _context;
 
-        public StaffRepository()
+        public StaffRepository(MyContext context)
+        {
+            _context = context;
+        }
+
+        /*public StaffRepository()
         {
             _context = new MyContext();
-        }
+        }*/
 
         public void Add(Staff entity)
         {
