@@ -1,4 +1,6 @@
 
+using HandsOnEFCodeFirstDemo2.Repositories;
+
 namespace HandsOnEFCodeFirstDemo2
 {
     public class Program
@@ -8,7 +10,7 @@ namespace HandsOnEFCodeFirstDemo2
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
-
+            builder.Services.AddTransient<StudentRepository>();
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
