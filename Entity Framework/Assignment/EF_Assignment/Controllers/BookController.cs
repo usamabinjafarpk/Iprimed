@@ -13,45 +13,109 @@ namespace EF_Assignment.Controllers
 
         public BookController(BookRepository bookRepository)
         {
-            this.bookRepository = bookRepository;
+            try
+            {
+                this.bookRepository = bookRepository;
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
         }
         [HttpPost,Route("AddBooks")]
         public IActionResult AddBook(Book book)
         {
-            bookRepository.AddBook(book);
-            return Ok(book);
+            try
+            {
+                bookRepository.AddBook(book);
+                return Ok(book);
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
         }
         [HttpGet,Route("GetAllBooks")]
         public IActionResult GetAll()
         {
-            return Ok(bookRepository.GetAll());
+            try
+            {
+                return Ok(bookRepository.GetAll());
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
         }
         [HttpGet,Route("GetBookByAuthor/{author}")]
         public IActionResult GetBookByAuthor(string author)
         {
-            return Ok(bookRepository.GetBooksByAuthor(author));
+            try
+            {
+                return Ok(bookRepository.GetBooksByAuthor(author));
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
         }
         [HttpGet,Route("GetBooksByLang")]
         public IActionResult GetBooksByLang(string lang)
         {
-            return Ok(bookRepository.GetBooksByLang(lang));
+            try
+            {
+                return Ok(bookRepository.GetBooksByLang(lang));
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
         }
         [HttpGet,Route("GetBooksByYear")]
         public IActionResult GetBooksByYear(int year)
         {
-            return Ok(bookRepository.GetBooksByYear(year));
+            try
+            {
+                return Ok(bookRepository.GetBooksByYear(year));
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
         }
         [HttpPut,Route("EditBook")]
         public IActionResult EditBook(Book book)
         {
-            bookRepository.EditBook(book);
-            return Ok(book);
+            try
+            {
+                bookRepository.EditBook(book);
+                return Ok(book);
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
         }
         [HttpDelete,Route("DeleteBook")]
         public IActionResult DeleteBook(int id)
         {
-            bookRepository.DeleteBook(id);
-            return Ok("Book deleted successfully");
+            try
+            {
+                bookRepository.DeleteBook(id);
+                return Ok("Book deleted successfully");
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
         }
     }
 }
