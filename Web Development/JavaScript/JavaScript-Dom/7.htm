@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .c1{
+            background-color: brown;
+            color: white;
+        }
+        .c2{
+            background-color: aquamarine;
+            color: brown;
+        }
+    </style>
+</head>
+<body>
+    <p class="c1">par 1</p>
+    <h1 class="c1">Head1</h1>
+    <p class="c2">Par2</p>
+    <h1 class="c2">head2</h1>
+    <script>
+        let item1=document.getElementsByClassName('c1')
+        for(let i of item1){
+            alert(i.innerText)
+        }
+        let item2=document.getElementsByClassName('c2')
+        item2[0].style.color="green"
+    </script>
+</body>
+</html>
