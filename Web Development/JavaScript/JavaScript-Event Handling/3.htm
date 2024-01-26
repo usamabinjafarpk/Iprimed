@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        let Validate=()=>{
+            let uname=document.getElementById("Username").value
+            let psswd=document.getElementById("Password").value
+            if(uname==''){
+                document.getElementById("error").innerText="Pls enter username"
+                event.preventDefault()
+            }
+            else if(psswd==''){
+                document.getElementById("error").innerText="Pls enter Paassword"
+                event.preventDefault()
+
+            }
+        }
+    </script>
+</head>
+<body>
+    <form action="https://www.geeksforgeeks.org/javascript-program-to-reverse-digits-of-a-number/" onsubmit="Validate()">
+        <table>
+            <tr>
+                <td>User Name:</td>
+                <td><input type="text" id="Username"></td>
+            </tr>
+            <tr>
+                <td>Password:</td>
+                <td><input type="password" id="Password"></td>
+            </tr>
+            <tr>
+                <td colspan="2"><input type="submit" value="SignIn"></td>
+            </tr>
+            <tr>
+                <td colspan="2"><span id="error"></span></td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        let Greet=()=>{
+            let name=document.getElementById("t").value
+            document.getElementById("s").innerText="Hello "+name
+        }
+    </script>
+</head>
+<body>
+    <table>
+        <tr>
+            <td>Name:</td>
+            <td><input type="text" name="name" id="t"></td>
+        </tr>
+        <tr>
+            <td colspan="2"><input type="submit" value="submit" onclick="Greet()"></td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <span id="s"></span>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>

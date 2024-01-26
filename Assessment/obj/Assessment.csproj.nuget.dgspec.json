@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Usama\\Iprimed\\Asp.net core\\Day11\\Assessment\\Assessment.csproj": {}
+    "C:\\Usama\\Iprimed\\Assessment\\Assessment.csproj": {}
   },
   "projects": {
-    "C:\\Usama\\Iprimed\\Asp.net core\\Day11\\Assessment\\Assessment.csproj": {
+    "C:\\Usama\\Iprimed\\Assessment\\Assessment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Usama\\Iprimed\\Asp.net core\\Day11\\Assessment\\Assessment.csproj",
+        "projectUniqueName": "C:\\Usama\\Iprimed\\Assessment\\Assessment.csproj",
         "projectName": "Assessment",
-        "projectPath": "C:\\Usama\\Iprimed\\Asp.net core\\Day11\\Assessment\\Assessment.csproj",
+        "projectPath": "C:\\Usama\\Iprimed\\Assessment\\Assessment.csproj",
         "packagesPath": "C:\\Users\\ubinjafa\\.nuget\\packages\\",
-        "outputPath": "C:\\Usama\\Iprimed\\Asp.net core\\Day11\\Assessment\\obj\\",
+        "outputPath": "C:\\Usama\\Iprimed\\Assessment\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ubinjafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

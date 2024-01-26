@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p>Para 1</p>
+    <p>Para 2</p>
+    <p>Para 3</p>
+    <p>Para 4</p>
+    <script>
+        let items=document.getElementsByTagName("p")
+        let obj=items[1]
+        items[2].style.color='Green'
+        obj.style.color='red'
+        for(let k of items){
+            alert(k.innerText)
+        }
+        // for(let i=0;i<items.length;i++){
+        //     alert(items[i].innerText)
+        // }
+    </script>
+</body>
+</html>
