@@ -1,0 +1,15 @@
+C:\Usama\Iprimed\C#\Week6\Assessment\bin\Debug\net8.0\Assessment.exe
+C:\Usama\Iprimed\C#\Week6\Assessment\bin\Debug\net8.0\Assessment.deps.json
+C:\Usama\Iprimed\C#\Week6\Assessment\bin\Debug\net8.0\Assessment.runtimeconfig.json
+C:\Usama\Iprimed\C#\Week6\Assessment\bin\Debug\net8.0\Assessment.dll
+C:\Usama\Iprimed\C#\Week6\Assessment\bin\Debug\net8.0\Assessment.pdb
+C:\Usama\Iprimed\C#\Week6\Assessment\obj\Debug\net8.0\Assessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Usama\Iprimed\C#\Week6\Assessment\obj\Debug\net8.0\Assessment.AssemblyInfoInputs.cache
+C:\Usama\Iprimed\C#\Week6\Assessment\obj\Debug\net8.0\Assessment.AssemblyInfo.cs
+C:\Usama\Iprimed\C#\Week6\Assessment\obj\Debug\net8.0\Assessment.csproj.CoreCompileInputs.cache
+C:\Usama\Iprimed\C#\Week6\Assessment\obj\Debug\net8.0\Assessment.sourcelink.json
+C:\Usama\Iprimed\C#\Week6\Assessment\obj\Debug\net8.0\Assessment.dll
+C:\Usama\Iprimed\C#\Week6\Assessment\obj\Debug\net8.0\refint\Assessment.dll
+C:\Usama\Iprimed\C#\Week6\Assessment\obj\Debug\net8.0\Assessment.pdb
+C:\Usama\Iprimed\C#\Week6\Assessment\obj\Debug\net8.0\Assessment.genruntimeconfig.cache
+C:\Usama\Iprimed\C#\Week6\Assessment\obj\Debug\net8.0\ref\Assessment.dll
