@@ -2,7 +2,7 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 export default function Header() {
   return (
-    <header className="navbar navbar-expand-lg navbar-light bg-black text-light">
+    <header className="navbar navbar-expand-lg bg-black text-light">
     <div className="container">
       <div className="navbar-brand text-light">ABC</div>
       <div className="navbar-collapse justify-content-end">

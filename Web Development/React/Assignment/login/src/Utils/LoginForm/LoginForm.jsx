@@ -5,13 +5,13 @@ export default function Main() {
     <div className="container mt-5 " style={{ maxWidth: '400px' }}>
       <form>
         <div className="mb-3">
-          <label htmlFor="username" className="form-label text-light">
+          <label className="form-label text-light">
             Username
           </label>
           <input type="text" className="form-control" id="username" required/>
         </div>
         <div className="mb-3">
-          <label htmlFor="password" className="form-label text-light">
+          <label className="form-label text-light">
             Password
           </label>
           <input

@@ -5,7 +5,7 @@ export default function Signupform() {
     <div className="container mt-5" style={{ maxWidth: '400px' }}>
       <form>
         <div className="mb-3">
-          <label htmlFor="username" className="form-label text-light">
+          <label className="form-label text-light">
             Username
           </label>
           <input
@@ -16,7 +16,7 @@ export default function Signupform() {
           />
         </div>
         <div className="mb-3">
-          <label htmlFor="email" className="form-label text-light">
+          <label className="form-label text-light">
             Email
           </label>
           <input
@@ -27,7 +27,7 @@ export default function Signupform() {
           />
         </div>
         <div className="mb-3">
-          <label htmlFor="password" className="form-label text-light">
+          <label className="form-label text-light">
             Password
           </label>
           <input
@@ -38,7 +38,7 @@ export default function Signupform() {
           />
         </div>
         <div className="mb-3">
-          <label htmlFor="password" className="form-label text-light">
+          <label className="form-label text-light">
             Confirm Password
           </label>
           <input
