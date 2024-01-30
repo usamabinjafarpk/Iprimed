@@ -4,14 +4,15 @@ export default function Qn1() {
     const colors=["Red","Green","Yellow","Blue"]
   return (
     <div>
+        <h1>Qn1</h1>
         <ol>
             {
                 colors.map((item)=>{
-                    return <li style={{backgroundColor:item}}>{item}</li>
+                    return <li>{item}</li>
                 })
             }
         </ol>
-        <table border={1}>
+        <table border={1} className='table'>
             <thead>
                 <tr>
                     <th>Colors</th>
